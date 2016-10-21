@@ -1,0 +1,11 @@
+{
+  "name": "jsdr_libs",
+  "version": "1.0.0",
+  "description": "Package of helper libraries created for jsdr project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Kline",
+  "license": "MIT"
+}
