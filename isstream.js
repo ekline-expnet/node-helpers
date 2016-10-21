@@ -1,10 +1,10 @@
-var stream = require('stream')
+var stream = require('stream');
 
 
 function isStream (obj) {
   return (obj &&
     (obj instanceof stream.Stream ||
-      typeof obj === 'object' && typeof obj.pipe === 'function')
+      typeof obj === 'object' && typeof obj.pipe === 'function'))
 }
 
 
