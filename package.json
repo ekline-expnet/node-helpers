@@ -1,5 +1,5 @@
 {
-  "name": "jsdr_libs",
+  "name": "node-helpers",
   "version": "1.0.0",
   "description": "Package of helper libraries created for jsdr project",
   "main": "index.js",
